@@ -6,7 +6,7 @@
 <h2>🚀 Funcionalidad del Programa</h2>
 <ul>
   <li><strong>Buscar libros por título</strong>: 📖 Obtén información de libros desde una API externa.</li>
-  <li><strong>Almacenar libros localmente</strong>: 💾 Guarda tus libros favoritos en una base de datos.</li>
+  <li><strong>Almacenar libros localmente</strong>: 💾 Guarda tus libros favoritos en una base de datos SQL.</li>
   <li><strong>Listar libros y autores</strong>: 📋 Visualiza los libros y autores almacenados.</li>
   <li><strong>Filtrar por idioma</strong>: 🌍 Encuentra libros en inglés, español, francés o portugués.</li>
   <li><strong>Buscar autores por fecha</strong>: 📅 Filtra autores según su año de actividad.</li>
