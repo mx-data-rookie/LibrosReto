@@ -26,7 +26,7 @@
 
 <h2>🎯 Cómo Utilizar</h2>
 <ol>
-  <li><strong>Ejecuta el programa</strong>: 🖱️ Inicia la aplicación desde tu entorno de desarrollo.</li>
+  <li><strong>Ejecuta el programa</strong>: 🖱️ Inicia la aplicación desde tu entorno de desarrollo. Te recomiendo la versión gratuita de IntelliJ</li>
   <li><strong>Menú principal</strong>:
     <ul>
       <li>🟢 <strong>Buscar libros</strong>: Ingresa el título de un libro para buscarlo y guardarlo.</li>
