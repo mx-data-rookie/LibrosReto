@@ -1,39 +1,44 @@
-📚 LibrosReto
-Un programa para buscar, almacenar y organizar libros y autores de manera local. ¡Ideal para amantes de la lectura!
+<h1 align="center">📚 LibrosReto</h1>
+<p align="center">Un programa para buscar, almacenar y organizar libros y autores de manera local. ¡Ideal para amantes de la lectura! Este proyecto está basado en el repositorio que depende del Gutenberg Project (https://gutendex.com/)</p>
 
-🚀 Funcionalidad del Programa
-Buscar libros por título: 📖 Obtén información de libros desde una API externa.
+---
 
-Almacenar libros localmente: 💾 Guarda tus libros favoritos en una base de datos.
+<h2>🚀 Funcionalidad del Programa</h2>
+<ul>
+  <li><strong>Buscar libros por título</strong>: 📖 Obtén información de libros desde una API externa.</li>
+  <li><strong>Almacenar libros localmente</strong>: 💾 Guarda tus libros favoritos en una base de datos.</li>
+  <li><strong>Listar libros y autores</strong>: 📋 Visualiza los libros y autores almacenados.</li>
+  <li><strong>Filtrar por idioma</strong>: 🌍 Encuentra libros en inglés, español, francés o portugués.</li>
+  <li><strong>Buscar autores por fecha</strong>: 📅 Filtra autores según su año de actividad.</li>
+</ul>
 
-Listar libros y autores: 📋 Visualiza los libros y autores almacenados.
+---
 
-Filtrar por idioma: 🌍 Encuentra libros en inglés, español, francés o portugués.
+<h2>🛠️ Conocimientos Básicos Aplicados</h2>
+<ul>
+  <li><strong>Programación en Java</strong>: 🖥️ Uso de clases, métodos y estructuras de datos.</li>
+  <li><strong>APIs externas</strong>: 🌐 Consumo de datos desde <a href="https://gutendex.com/">Gutendex</a>.</li>
+  <li><strong>Bases de datos</strong>: 🗄️ Almacenamiento local con JPA y repositorios.</li>
+  <li><strong>Interacción con el usuario</strong>: ⌨️ Menús interactivos mediante la consola.</li>
+</ul>
 
-Buscar autores por fecha: 📅 Filtra autores según su año de actividad.
+---
 
-🛠️ Conocimientos Básicos Aplicados
-Programación en Java: 🖥️ Uso de clases, métodos y estructuras de datos.
+<h2>🎯 Cómo Utilizar</h2>
+<ol>
+  <li><strong>Ejecuta el programa</strong>: 🖱️ Inicia la aplicación desde tu entorno de desarrollo.</li>
+  <li><strong>Menú principal</strong>:
+    <ul>
+      <li>🟢 <strong>Buscar libros</strong>: Ingresa el título de un libro para buscarlo y guardarlo.</li>
+      <li>🟢 <strong>Ver libros locales</strong>: Muestra todos los libros almacenados.</li>
+      <li>🟢 <strong>Ver autores locales</strong>: Muestra todos los autores almacenados.</li>
+      <li>🟢 <strong>Filtrar por idioma</strong>: Elige un idioma para ver los libros disponibles.</li>
+      <li>🟢 <strong>Buscar autores por fecha</strong>: Ingresa un año para encontrar autores activos en esa fecha.</li>
+    </ul>
+  </li>
+  <li><strong>Salir</strong>: ❌ Selecciona la opción <code>0</code> para cerrar la aplicación.</li>
+</ol>
 
-APIs externas: 🌐 Consumo de datos desde Gutendex.
+---
 
-Bases de datos: 🗄️ Almacenamiento local con JPA y repositorios.
-
-Interacción con el usuario: ⌨️ Menús interactivos mediante la consola.
-
-🎯 Cómo Utilizar
-Ejecuta el programa: 🖱️ Inicia la aplicación desde tu entorno de desarrollo.
-
-Menú principal:
-
-🟢 Buscar libros: Ingresa el título de un libro para buscarlo y guardarlo.
-
-🟢 Ver libros locales: Muestra todos los libros almacenados.
-
-🟢 Ver autores locales: Muestra todos los autores almacenados.
-
-🟢 Filtrar por idioma: Elige un idioma para ver los libros disponibles.
-
-🟢 Buscar autores por fecha: Ingresa un año para encontrar autores activos en esa fecha.
-
-Salir: ❌ Selecciona la opción 0 para cerrar la aplicación.
+<p align="center">¡Y eso es todo! 🎉 Con <strong>LibrosReto</strong>, organizar tu biblioteca digital nunca fue tan fácil. 📚✨</p>
